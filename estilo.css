@@ -1,0 +1,107 @@
+*{margin: 0;
+box-sizing: border-box;
+padding: 0;
+
+}
+
+body{
+ 
+  background-color: rgb(255, 255, 255);
+
+}
+
+.container{
+  display: block;
+  margin: 0 auto;
+ 
+  width: 92vw;
+  height: 65vh;
+  margin-top: 6rem;
+  border-radius: 4px;
+ 
+}
+
+
+.conteudo{
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+
+}
+
+
+.conteudo img{ width: 95px;
+
+  margin-top: 2rem;
+ 
+}
+
+
+label{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ flex-wrap: wrap;
+ padding: 0.7rem;
+}
+
+label{
+  margin: 0 auto;
+  width: 85%;
+  margin: 1.6rem;
+
+ 
+
+}
+
+
+.receber-infos{
+margin: 0 auto;
+width: 92vw;
+ height: 5vh;
+
+ margin-top:1rem ;
+
+}
+
+.receber-infos h1{
+ 
+  font-family: arial;
+  font-size: 18px;
+  text-align: left;
+  padding: 1rem;
+  color: #020202;
+  font-weight: bold;
+
+
+}
+
+a{
+ 
+ position: absolute;
+right: -4px;
+top: -5px;
+margin-top: 1rem;
+
+
+}
+
+
+
+a img{
+
+  width: 45px;
+}
+
+.botao{
+ 
+  
+  
+}
+
+label{
+
+  border-radius: 5px solid #FFF;
+}
